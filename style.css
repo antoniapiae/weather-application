@@ -17,6 +17,12 @@ form {
   font-size: 25px;
   padding: 30px;
 }
+
+p {
+  text-align: center;
+  padding: 15px 0;
+}
+
 .container {
   font-family: "Abel", sans-serif;
 }
@@ -60,4 +66,8 @@ form {
     rgb(167, 220, 225) 11.2%,
     rgb(217, 239, 242) 88.9%
   );
+}
+
+.link {
+  text-decoration: none;
 }
